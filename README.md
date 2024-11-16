@@ -1,4 +1,4 @@
-# Music School Booking System API
+# Music School Booking System
 
 ## Overview
 
